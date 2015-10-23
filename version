@@ -1,0 +1,9 @@
+{
+  "latest_version_code": 1,
+  "latest_version_text": "0.1.0-alpha",
+  "latest_download": "https://github.com/getbookshelf/bookshelf-server/archive/master.zip",
+  "upgrade_download": "https://github.com/getbookshelf/bookshelf-server/releases/download/v0.1.0-alpha/bookshelf_v0.1.0-alpha.zip",
+  "min_required": 0,
+  "legacy_notice": "If you are seeing this message, something went wrong. Please visit getbookshelf.org to manually download and install the latest version of Bookshelf.",
+  "release_notice": "This is the first official release of Bookshelf!"
+}
